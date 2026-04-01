@@ -8,4 +8,5 @@ def clean_name(name: str) -> str:
     Returns:
         str: nome sem espaços nas extremidades
     """
-    pass
+    return name.strip()
+
