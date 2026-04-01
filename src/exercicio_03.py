@@ -9,4 +9,3 @@ def personal_message(name: str) -> str:
         str: saudação no formato "Hello, <name>!"
     """
     return f"Hello, {name}!"
-
