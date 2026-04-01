@@ -9,4 +9,3 @@ def simple_message(message: str) -> str:
         str: a mesma mensagem
     """
     return message
-
