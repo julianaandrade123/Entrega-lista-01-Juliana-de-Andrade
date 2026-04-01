@@ -5,4 +5,4 @@ def hello_world() -> str:
     Returns:
         str: "Hello, World!"
     """
-    return "Hello, world!"
+    return "Hello, World!"
